@@ -3,8 +3,7 @@
  * Created by: James Lee
  * Created on: Mar 2019
  * Created for: ICS4U
- * This program
- *
+ * This program creates a stack and pushes three numbers to it
  *
  ****************************************************************************/
 
