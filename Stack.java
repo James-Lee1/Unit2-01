@@ -13,11 +13,13 @@ class Stack {
 
     private final ArrayList<Integer> myStack = new ArrayList<Integer>();
 
+    // Adds integers onto the stack
     public void push(int number)
     {
         myStack.add(number);
     }
 
+    // Prints out the whole stack
     public String toString()
     {
         String output = "";
