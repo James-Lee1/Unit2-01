@@ -19,7 +19,7 @@ class Stack {
         myStack.add(number);
     }
 
-    // Prints out the whole stack
+    // Converts stack into string
     public String toString()
     {
         String output = "";
