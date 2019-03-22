@@ -9,9 +9,9 @@
 
 import java.util.ArrayList;
 
-class Stack {
-
-    private final ArrayList<Integer> myStack = new ArrayList<Integer>();
+class Stack
+{
+    private static final ArrayList<Integer> myStack = new ArrayList<Integer>();
 
     // Adds integers onto the stack
     public void push(int number)
